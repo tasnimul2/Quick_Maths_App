@@ -1,4 +1,4 @@
-# :video_game: :x: Quick Maths :x: :video_game:
+# :video_game: :x: Quick Maths :x: :video_game: (pre-work)
 ### Multiplication game that tests your knowledge of the multiplication table in 30 seconds. 
 
 ### [SOURCE CODE](https://github.com/mohammed1478/QuickMaths/tree/master/app/src/main/java/com/example/quickmaths)
