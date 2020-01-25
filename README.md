@@ -5,6 +5,9 @@
 
 ### [DOWNLOAD APP (Android Only)](https://github.com/mohammed1478/QuickMaths/blob/master/app/release/app-release.apk)
 
+## Game sample (CLICK IMAGE FOR VIDEO OF FULL APP) :
+[![IMAGE ALT TEXT HERE](https://i.imgur.com/RdONDOC.gif)](https://www.youtube.com/watch?v=uIF0_SBLt94&feature=youtu.be)
+
 ### What I learned:
 1.  use of  the legacy tool "grid layout" on Android Studio
 2.  adding buttons to the grid layout
@@ -18,6 +21,3 @@
 10. implementing a score sheet that keeps tracks of questions that were correct and incorrect, as well as the highest number of
     questions have gotten correct
 11. utilizing a timer to set the game for 30 seconds only.
-
-## Game sample (CLICK IMAGE FOR VIDEO OF FULL APP) :
-[![IMAGE ALT TEXT HERE](https://i.imgur.com/RdONDOC.gif)](https://www.youtube.com/watch?v=uIF0_SBLt94&feature=youtu.be)
